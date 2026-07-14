@@ -135,7 +135,3 @@ create table public.certificate_templates (
 - Template must be in SVG format - design in Figma (Preferred) and export as SVG
 - Flatten all decorative elements except text fields with template variables
 - Ensure participant name text is centered relative to the certificate
-
----
-
-**Built with ❤️ by Excel Core '25**
